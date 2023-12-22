@@ -1,7 +1,7 @@
 # College Wellbeing-Support System
 
 ## Overview
-https://college-wellbeing-support-system.netlify.app/
+Link- https://college-wellbeing-support-system.netlify.app/
 
 Welcome to the College Wellbeing Support System, an initiative dedicated to addressing and preventing unethical incidents like ragging within our academic community. This repository houses the tools and resources implemented across various layers of support.
 
