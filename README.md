@@ -15,6 +15,7 @@ Welcome to the College Wellbeing Support System, an initiative dedicated to addr
   - Bypasses bureaucratic hurdles
   - Quick and anonymous reporting
   - Signals a commitment to zero-tolerance
+  - Games
 
 ### Layer 2 - Counselor Support
 
