@@ -48,7 +48,7 @@ To get started with the College Wellbeing Support System, follow the documentati
 ## Contribution Guidelines
 
 We welcome contributions to enhance and customize the support system. Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more details.
-
+add myself
 ## License
 
 This project is licensed under the [CGU Sudhanshu](LICENSE).
